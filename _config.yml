@@ -115,6 +115,7 @@ compress_html:
     ignore:
         envs:
         - development
+        - production
         - stage
 
 exclude: ["Rakefile", "Gemfile", "Gemfile.lock"]
