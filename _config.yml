@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://0.gravatar.com/avatar/99c7f88a98970e419e709083e0a8c6e2.jpg?s=450
+picture: assets/images/yusuf-sezer.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,7 +58,7 @@ authors:
         name: Yusuf SEZER
         bio: 'Software developer, interested about web technologies, algorithms, artificial intelligence and embedded systems; constantly exploring new technologies.'
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/yusuf-sezer.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
