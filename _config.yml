@@ -7,12 +7,12 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/yusuf-sezer.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -74,8 +74,8 @@ width: large
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: false
-blog: false
+about: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
